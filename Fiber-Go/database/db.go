@@ -16,7 +16,7 @@ func InitDatabase() error {
 	if err := godotenv.Load(); err != nil {
 		return fmt.Errorf("error cargando archivo .env: %v", err)
 	}
-	mongodb := os.Getenv("MONGODB_URI")
+	mongodb := os.Getenv("MONGO_URI")
 
 	client, err := mongo.Connect(context.TODO(), options.Client().ApplyURI(mongodb))
 	if err != nil {
