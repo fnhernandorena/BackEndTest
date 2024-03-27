@@ -11,6 +11,6 @@ app.use(cors({
 }));
 app.use(express.json());
 
-app.use('/api',shoesRoutes);
+app.use('',shoesRoutes);
 
 export default app;

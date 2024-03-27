@@ -15,8 +15,6 @@ const shoeSchema = new mongoose.Schema({
         type:Number,
         required:true
     }
-},{
-    timestamps: true
 })
 
 export default mongoose.model('Shoe', shoeSchema);

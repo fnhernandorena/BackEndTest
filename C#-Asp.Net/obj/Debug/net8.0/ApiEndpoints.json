@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "C__Asp.Net.Controllers.ShoesController",
+    "Method": "GetAllShoes",
+    "RelativePath": "Shoes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "C__Asp.Net.Controllers.ShoesController",
+    "Method": "CreateShoe",
+    "RelativePath": "Shoes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shoe",
+        "Type": "C__Asp.Net.Models.Shoe",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "C__Asp.Net.Controllers.ShoesController",
+    "Method": "GetShoe",
+    "RelativePath": "Shoes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "C__Asp.Net.Controllers.ShoesController",
+    "Method": "UpdateShoe",
+    "RelativePath": "Shoes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shoe",
+        "Type": "C__Asp.Net.Models.Shoe",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "C__Asp.Net.Controllers.ShoesController",
+    "Method": "DeleteShoe",
+    "RelativePath": "Shoes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

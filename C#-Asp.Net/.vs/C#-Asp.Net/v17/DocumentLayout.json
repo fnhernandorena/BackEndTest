@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\C#-Asp.Net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{635196AA-A996-4D6B-86EB-9E4B092D2B93}|C#-Asp.Net.csproj|c:\\users\\asus\\source\\repos\\c#-asp.net\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{635196AA-A996-4D6B-86EB-9E4B092D2B93}|C#-Asp.Net.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635196AA-A996-4D6B-86EB-9E4B092D2B93}|C#-Asp.Net.csproj|c:\\users\\asus\\source\\repos\\c#-asp.net\\c#-asp.net.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{635196AA-A996-4D6B-86EB-9E4B092D2B93}|C#-Asp.Net.csproj|solutionrelative:c#-asp.net.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635196AA-A996-4D6B-86EB-9E4B092D2B93}|C#-Asp.Net.csproj|c:\\users\\asus\\source\\repos\\c#-asp.net\\controllers\\shoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635196AA-A996-4D6B-86EB-9E4B092D2B93}|C#-Asp.Net.csproj|solutionrelative:controllers\\shoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635196AA-A996-4D6B-86EB-9E4B092D2B93}|C#-Asp.Net.csproj|c:\\users\\asus\\source\\repos\\c#-asp.net\\repositories\\shoescollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635196AA-A996-4D6B-86EB-9E4B092D2B93}|C#-Asp.Net.csproj|solutionrelative:repositories\\shoescollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635196AA-A996-4D6B-86EB-9E4B092D2B93}|C#-Asp.Net.csproj|c:\\users\\asus\\source\\repos\\c#-asp.net\\repositories\\ishoescollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635196AA-A996-4D6B-86EB-9E4B092D2B93}|C#-Asp.Net.csproj|solutionrelative:repositories\\ishoescollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635196AA-A996-4D6B-86EB-9E4B092D2B93}|C#-Asp.Net.csproj|c:\\users\\asus\\source\\repos\\c#-asp.net\\models\\shoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635196AA-A996-4D6B-86EB-9E4B092D2B93}|C#-Asp.Net.csproj|solutionrelative:models\\shoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635196AA-A996-4D6B-86EB-9E4B092D2B93}|C#-Asp.Net.csproj|c:\\users\\asus\\source\\repos\\c#-asp.net\\repositories\\mongodbrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635196AA-A996-4D6B-86EB-9E4B092D2B93}|C#-Asp.Net.csproj|solutionrelative:repositories\\mongodbrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "C#-Asp.Net",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\C#-Asp.Net\\C#-Asp.Net.csproj",
+              "RelativeDocumentMoniker": "C#-Asp.Net.csproj",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\C#-Asp.Net\\C#-Asp.Net.csproj",
+              "RelativeToolTip": "C#-Asp.Net.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-27T04:34:07.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\C#-Asp.Net\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\C#-Asp.Net\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-27T03:48:31.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShoesController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\C#-Asp.Net\\Controllers\\ShoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShoesController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\C#-Asp.Net\\Controllers\\ShoesController.cs",
+              "RelativeToolTip": "Controllers\\ShoesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:26:02.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShoesCollection.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\C#-Asp.Net\\Repositories\\ShoesCollection.cs",
+              "RelativeDocumentMoniker": "Repositories\\ShoesCollection.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\C#-Asp.Net\\Repositories\\ShoesCollection.cs",
+              "RelativeToolTip": "Repositories\\ShoesCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T02:41:29.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IShoesCollection.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\C#-Asp.Net\\Repositories\\IShoesCollection.cs",
+              "RelativeDocumentMoniker": "Repositories\\IShoesCollection.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\C#-Asp.Net\\Repositories\\IShoesCollection.cs",
+              "RelativeToolTip": "Repositories\\IShoesCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T02:40:16.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MongoDbRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\C#-Asp.Net\\Repositories\\MongoDbRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\MongoDbRepo.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\C#-Asp.Net\\Repositories\\MongoDbRepo.cs",
+              "RelativeToolTip": "Repositories\\MongoDbRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T02:25:06.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shoe.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\C#-Asp.Net\\Models\\Shoe.cs",
+              "RelativeDocumentMoniker": "Models\\Shoe.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\C#-Asp.Net\\Models\\Shoe.cs",
+              "RelativeToolTip": "Models\\Shoe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T02:20:24.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
