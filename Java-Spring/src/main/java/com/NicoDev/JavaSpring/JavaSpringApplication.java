@@ -1,13 +1,13 @@
-package com.fnhernandorena.SpringJava;
+package com.NicoDev.JavaSpring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringJavaApplication {
+public class JavaSpringApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringJavaApplication.class, args);
+		SpringApplication.run(JavaSpringApplication.class, args);
 	}
 
 }
