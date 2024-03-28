@@ -23,6 +23,6 @@ func InitDatabase() error {
 		return fmt.Errorf("error conectando a MongoDB: %v", err)
 	}
 
-	Collection = client.Database("test").Collection("shoes")
+	Collection = client.Database("test").Collection("shoes_go_fiber")
 	return nil
 }

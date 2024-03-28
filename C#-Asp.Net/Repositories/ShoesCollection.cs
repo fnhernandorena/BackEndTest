@@ -11,7 +11,7 @@ namespace C__Asp.Net.Repositories
 
         public ShoesCollection() 
         {
-            Collection = _repository.db.GetCollection<Shoe>("shoes");
+            Collection = _repository.db.GetCollection<Shoe>("shoes_c#_dotnet");
         }
         public async Task CreateShoe(Shoe shoe)
         {

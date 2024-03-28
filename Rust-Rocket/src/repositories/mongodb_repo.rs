@@ -21,7 +21,7 @@ impl MongoRepo{
         .expect("La variable de entorno MONGODB_URI no está definida");
         let client = Client::with_uri_str(uri).unwrap();
         let db = client.database("test");
-        let col: Collection<Shoe> = db.collection("shoes");
+        let col: Collection<Shoe> = db.collection("shoes_rust_rocket");
         MongoRepo { col }
    }
 
